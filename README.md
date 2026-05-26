@@ -6,7 +6,7 @@ MS Data Science @ UMBC
 </h3>
 
 <p align="center">
-  <a href="mailto:kshah9@umbc.edu">📧 kshah9@umbc.edu</a> ·
+  <a href="mailto:khushishahwork09@gmail.com">📧 khushishahwork09@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/khushishah0809/">💼 LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=GEJvuvQAAAAJ&hl=en">🎓 Google Scholar</a> ·
   <a href="https://github.com/KHUSHI0809">💻 GitHub</a>
