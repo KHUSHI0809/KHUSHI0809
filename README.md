@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Khushi Shah 👋</h1>
 
 <h3 align="center">
-Data Scientist · ML/AI Engineer · IEEE-Published Researcher<br>
-MS Data Science @ UMBC
+Data Scientist · ML/AI Engineer · 3× IEEE-Published Researcher<br>
+MS Data Science @ UMBC (4.0 GPA) · Math Coach · Incoming Career Peer
 </h3>
 
 <p align="center">
-  <a href="mailto:khushishahwork09@gmail.com">📧 khushishahwork09@gmail.com</a> ·
+  <a href="mailto:kshah9@umbc.edu">📧 kshah9@umbc.edu</a> ·
   <a href="https://www.linkedin.com/in/khushishah0809/">💼 LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=GEJvuvQAAAAJ&hl=en">🎓 Google Scholar</a> ·
+  <a href="https://scholar.google.com/YOUR_SCHOLAR_ID">🎓 Google Scholar</a> ·
   <a href="https://github.com/KHUSHI0809">💻 GitHub</a>
 </p>
 
@@ -16,20 +16,18 @@ MS Data Science @ UMBC
 
 ## 👩‍🔬 About Me
 
-I'm a **graduate researcher and data scientist** at the **University of Maryland, Baltimore County (UMBC)**, pursuing my MS in Data Science & Database Administration (**GPA: 4.0/4.0**). I work at the intersection of **machine learning, explainable AI, causal inference, LLM systems, and responsible AI governance**.
+Results-driven data scientist and ML engineer with hands-on experience building production ML pipelines, LLM-powered applications, and end-to-end data systems that create real business impact. Proven track record: **25% forecasting accuracy improvement**, **60% reporting automation**, models achieving **F1: 0.89**, **ROC-AUC: 0.94**, and **95.7% test accuracy** — not just code that looks good in a repo, but systems that deliver measurable outcomes.
 
-I'm a **6× IEEE-published author** with hands-on experience building end-to-end ML pipelines, agentic LLM applications, and computer vision systems across NLP, geospatial classification, healthcare diagnostics, and AI-driven diagnostics. 
+I'm a **3× IEEE-published researcher** pursuing my MS in Data Science at UMBC (GPA: 4.0/4.0), working at the intersection of machine learning, explainable AI, LLM systems, and responsible AI governance. I also serve as a **Math Coach at UMBC**, helping students build strong quantitative foundations.
 
 ---
 
-## 🔬 Research Interests
-
-- **Causal Inference & Causal ML** — DAGs, do-calculus, instrumental variables, propensity scoring, uplift modeling; hands-on with `DoWhy`, `EconML`, `CausalImpact`, `CausalNex`, `PyMC`
-- **Small Language Models (SLMs)** — fine-tuning, LoRA/QLoRA, distillation, RAG on Llama, Mistral, Phi, Qwen, Gemma; eval harnesses (`lm-eval-harness`, custom benchmarks)
-- **Agentic AI Systems** — LangGraph, DSPy, AutoGen, Claude Agent SDK
-- **Explainable & Responsible AI** — SHAP, LIME, Grad-CAM, NIST AI RMF, model risk assessment
-- **Computer Vision & NLP** — transfer learning, CNNs, transformers, object detection
-- **Research Domains** — Telesurgery Systems, Optical Fibre Sensing, V2X Communications, Smart Grid Systems, UAV Systems, Healthcare Diagnostics, Federated Learning
+- 🔭 **Currently working on** — an Intelligent Micro-Learning Platform using agentic AI workflows, LangChain, HuggingFace Transformers, and reinforcement learning to deliver personalized, adaptive learning recommendations
+- 👯 **Looking to collaborate on** — end-to-end ML pipelines, LLM/agentic AI applications, data engineering systems, or anything at the intersection of applied AI and real business impact
+- 🤝 **Open to** — Data Scientist, ML Engineer, Data Analyst, and Business Analyst roles and research collaborations
+- 🌱 **Currently learning** — advanced deep learning architectures, LoRA/QLoRA fine-tuning on SLMs (Llama, Mistral, Phi), and distributed data systems through my MS at UMBC
+- 💬 **Ask me about** — ML pipelines, LLM-powered apps, ETL/ELT systems, explainable AI, Power BI dashboards, geospatial classification, or how to squeeze 25% more forecasting accuracy out of a messy dataset
+- ⚡ **Fun fact** — I built an adaptive learning system with a reinforcement learning feedback loop that boosted course completion efficiency by 25% and engagement by 35%
 
 ---
 
@@ -50,10 +48,6 @@ I'm a **6× IEEE-published author** with hands-on experience building end-to-end
 
 `XGBoost` · `LLMs` · `RAG` · `LoRA/QLoRA` · `Agentic Workflows` · `Federated Learning` · `Transfer Learning`
 
-**Causal Inference**
-
-`DoWhy` · `EconML` · `CausalImpact` · `CausalNex` · `PyMC`
-
 **Agentic & LLM Frameworks**
 
 `LangChain` · `LangGraph` · `DSPy` · `AutoGen` · `Claude Agent SDK`
@@ -69,9 +63,9 @@ I'm a **6× IEEE-published author** with hands-on experience building end-to-end
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
-`Apache Spark` · `Apache Airflow` · `dbt` · `Docker` · `CI/CD` · `ETL/ELT` · `Star Schema`
+`Apache Spark` · `Apache Airflow` · `dbt` · `Docker` · `CI/CD` · `ETL/ELT` · `Star Schema` · `PostgreSQL`
 
-**Visualization**
+**Visualization & BI**
 
 `Tableau` · `Power BI` · `Plotly` · `Matplotlib` · `Seaborn`
 
@@ -80,7 +74,7 @@ I'm a **6× IEEE-published author** with hands-on experience building end-to-end
 ## 🚀 Featured Projects
 
 ### 🛰️ [Satellite Land Cover Classification System](https://github.com/KHUSHI0809/YOUR_REPO)
-End-to-end ML pipeline for geospatial land-use classification using **8-band multispectral satellite imagery (SpaceNet 7)**. Extracted 81 statistical & spectral features across 720 image tiles, applied PCA (81→20 components, 100% variance retained), hyperparameter tuning, and Random Forest classification.
+End-to-end ML pipeline for geospatial land-use classification using **8-band multispectral satellite imagery (SpaceNet 7)**. Extracted 81 statistical & spectral features across 720 image tiles, applied PCA (81→20 components, 100% variance retained), and trained a Random Forest classifier with hyperparameter tuning.
 **F1: 0.89 · ROC-AUC: 0.94** · Feature importance analysis for policy-relevant model transparency.
 
 `Python` `scikit-learn` `PCA` `Random Forest` `Geospatial ML` `XAI`
@@ -104,14 +98,14 @@ LLM-powered adaptive learning system with **agentic AI workflows**, NLP-based co
 ---
 
 ### 🛒 [Retail Sales Performance Analytics Pipeline](https://github.com/KHUSHI0809/YOUR_REPO)
-End-to-end ETL pipeline integrating **32.4M+ records** from 4 retail sources (Walmart, Amazon, Whole Foods, Instacart) into a SQL Server data warehouse. Designed a star schema with 5 dimension tables and 3 fact tables, enabling multi-source analytics for pricing benchmarking, inventory optimization, and customer behavior analysis.
+End-to-end ETL pipeline integrating **32.4M+ records** from 4 retail sources (Walmart, Amazon, Whole Foods, Instacart) into a SQL Server data warehouse. Star schema with 5 dimension tables and 3 fact tables, enabling multi-source analytics for pricing benchmarking, inventory optimization, and customer segmentation.
 **100% data loading success · Zero failed records**
 
 `SQL` `ETL` `Star Schema` `Power BI` `Data Warehousing` `Python`
 
 ---
 
-### 🎬 [Movie Recommendation System — Gemini + LangChain](https://github.com/Lbp2563/Movie-Recommendation-System_Gemini_LangChain) *(collaborator)*
+### 🎬 [Movie Recommendation System — Gemini + LangChain](https://github.com/Lbp2563/Movie-Recommendation-System_Gemini_LangChain)
 LLM-powered movie recommender using **Gemini API**, LangChain, and Streamlit. Returns personalized suggestions from natural language user input via ngrok-exposed Streamlit interface.
 
 `Gemini API` `LangChain` `Streamlit` `Python` `ngrok`
@@ -122,13 +116,11 @@ LLM-powered movie recommender using **Gemini API**, LangChain, and Streamlit. Re
 
 **3× IEEE Published Author**
 
-| Paper | Venue | Date |
-|-------|-------|------|
-| TeleOpc: Blockchain and DL-based Optical Fiber Fault Detection Framework for Telesurgery Systems | IEEE GLOBECOM | Mar 2026 |
-| V-BaSiC: Blockchain and AI-based Framework for Spam Identification in V2X Communication | IEEE ICSPIS | Jan 2026 |
-| DL-based Framework for Malicious Node Detection in PoS Blockchains to Secure Telesurgery Systems | IEEE IWCMC | Jul 2025 |
+- TeleOpc: Blockchain and DL-based Optical Fiber Fault Detection Framework for Telesurgery Systems — *IEEE GLOBECOM, Mar 2026*
+- V-BaSiC: Blockchain and AI-based Framework for Spam Identification in V2X Communication — *IEEE ICSPIS, Jan 2026*
+- DL-based Framework for Malicious Node Detection in PoS Blockchains to Secure Telesurgery Systems — *IEEE IWCMC, Jul 2025*
 
-📖 [View all on Google Scholar](https://scholar.google.com/YOUR_SCHOLAR_ID)
+📖 [View all publications on Google Scholar](https://scholar.google.com/YOUR_SCHOLAR_ID)
 
 ---
 
@@ -152,5 +144,5 @@ LLM-powered movie recommender using **Gemini API**, LangChain, and Streamlit. Re
 
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight."</i><br>
-  <sub>Open to research collaborations, data science roles, and ML engineering opportunities.</sub>
+  <sub>Open to research collaborations, Data Scientist, ML Engineer, Data Analyst, and Business Analyst opportunities.</sub>
 </p>
