@@ -22,12 +22,11 @@ I'm an ** IEEE-published researcher** pursuing my MS in Data Science at the Univ
 
 ---
 
-- 🔭 **Currently working on** — an Intelligent Micro-Learning Platform using agentic AI workflows, LangChain, HuggingFace Transformers, and reinforcement learning to deliver personalized, adaptive learning recommendations
+
 - 👯 **Looking to collaborate on** — end-to-end ML pipelines, LLM/agentic AI applications, data engineering systems, or anything at the intersection of applied AI and real business impact
 - 🤝 **Open to** — Data Scientist, ML Engineer, Data Analyst, and Business Analyst roles and research collaborations
 - 🌱 **Currently learning** — advanced deep learning architectures, LoRA/QLoRA fine-tuning on SLMs (Llama, Mistral, Phi), and distributed data systems through my MS at UMBC
-- 💬 **Ask me about** — ML pipelines, LLM-powered apps, ETL/ELT systems, explainable AI, Power BI dashboards, geospatial classification, or how to squeeze 25% more forecasting accuracy out of a messy dataset
-- ⚡ **Fun fact** — I built an adaptive learning system with a reinforcement learning feedback loop that boosted course completion efficiency by 25% and engagement by 35%
+- 💬 **Ask me about** — ML pipelines, LLM-powered apps, ETL/ELT systems, explainable AI, Power BI dashboards, geospatial classification.
 
 ---
 
