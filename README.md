@@ -72,7 +72,7 @@ I'm an **IEEE-published researcher** pursuing my MS in Data Science at the Unive
 
 ## 🚀 Featured Projects
 
-### 🛰️ [Satellite Land Cover Classification System](https://github.com/KHUSHI0809/YOUR_REPO)
+### 🛰️ [Satellite Land Cover Classification System](https://github.com/KHUSHI0809/https://github.com/KHUSHI0809/Satellite-Land-Cover-Classification-System)
 End-to-end ML pipeline for geospatial land-use classification using **8-band multispectral satellite imagery (SpaceNet 7)**. Extracted 81 statistical & spectral features across 720 image tiles, applied PCA (81→20 components, 100% variance retained), and trained a Random Forest classifier with hyperparameter tuning.
 **F1: 0.89 · ROC-AUC: 0.94** · Feature importance analysis for policy-relevant model transparency.
 
@@ -80,7 +80,7 @@ End-to-end ML pipeline for geospatial land-use classification using **8-band mul
 
 ---
 
-### 🌿 [Crop Disease Detection Web Application](https://github.com/KHUSHI0809/YOUR_REPO)
+### 🌿 [Crop Disease Detection Web Application](https://github.com/KHUSHI0809/https://github.com/KHUSHI0809/Crop_Disease_Detection-Web-Application-Using-Efficient-Net)
 Computer vision pipeline using transfer learning on **EfficientNet**, fine-tuned on 50K+ annotated images. Class imbalance handling, augmentation, model compression via structured pruning (40% size reduction), and **Grad-CAM** interpretability for trustworthy AI diagnostics.
 **95.7% test accuracy** · Flask + React deployment · Projected 25% crop loss reduction.
 
@@ -88,7 +88,7 @@ Computer vision pipeline using transfer learning on **EfficientNet**, fine-tuned
 
 ---
 
-### 🧠 [Intelligent Micro-Learning Platform](https://github.com/KHUSHI0809/YOUR_REPO)
+### 🧠 [Intelligent Micro-Learning Platform](https://github.com/KHUSHI0809/https://github.com/KHUSHI0809/IntellicQ.git)
 LLM-powered adaptive learning system with **agentic AI workflows**, NLP-based content tagging, automated transcript generation, and a **reinforcement learning feedback loop** for dynamic difficulty scaling. Guardrails for prompt injection, hallucination filtering, and content-appropriateness checks.
 **40% learner accessibility improvement · 25% course completion boost · 35% engagement increase**
 
@@ -96,7 +96,7 @@ LLM-powered adaptive learning system with **agentic AI workflows**, NLP-based co
 
 ---
 
-### 🛒 [Retail Sales Performance Analytics Pipeline](https://github.com/KHUSHI0809/YOUR_REPO)
+### 🛒 [Retail Sales Performance Analytics Pipeline](https://github.com/KHUSHI0809/https://github.com/KHUSHI0809/Retail-Sales-Performance-Analytics-Pipeline.git)
 End-to-end ETL pipeline integrating **32.4M+ records** from 4 retail sources (Walmart, Amazon, Whole Foods, Instacart) into a SQL Server data warehouse. Star schema with 5 dimension tables and 3 fact tables, enabling multi-source analytics for pricing benchmarking, inventory optimization, and customer segmentation.
 **100% data loading success · Zero failed records**
 
