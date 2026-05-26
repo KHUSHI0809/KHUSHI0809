@@ -112,14 +112,7 @@ LLM-powered movie recommender using **Gemini API**, LangChain, and Streamlit. Re
 ---
 
 ## 📄 Publications
-
-**3× IEEE Published Author**
-
-- TeleOpc: Blockchain and DL-based Optical Fiber Fault Detection Framework for Telesurgery Systems — *IEEE GLOBECOM, Mar 2026*
-- V-BaSiC: Blockchain and AI-based Framework for Spam Identification in V2X Communication — *IEEE ICSPIS, Jan 2026*
-- DL-based Framework for Malicious Node Detection in PoS Blockchains to Secure Telesurgery Systems — *IEEE IWCMC, Jul 2025*
-
-📖 [View all publications on Google Scholar](https://scholar.google.com/YOUR_SCHOLAR_ID)
+📖 [View all publications on Google Scholar](https://scholar.google.com/citations?user=GEJvuvQAAAAJ&hl=en)
 
 ---
 
@@ -128,7 +121,7 @@ LLM-powered movie recommender using **Gemini API**, LangChain, and Streamlit. Re
 | Degree | Institution | GPA | Year |
 |--------|------------|-----|------|
 | MS Data Science & Database Administration | University of Maryland, Baltimore County | 4.0/4.0 | 2025–2027 |
-| BTech Computer Science & Engineering | Institute of Technology, Nirma University | — | 2021–2025 |
+| BTech Computer Science & Engineering | Institute of Technology, Nirma University | 3.5/4.0 | 2021–2025 |
 
 ---
 
