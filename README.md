@@ -16,9 +16,9 @@ MS Data Science @ UMBC
 
 ## 👩‍🔬 About Me
 
-Results-driven data scientist and ML engineer with hands-on experience building production ML pipelines, LLM-powered applications, and end-to-end data systems that create real business impact. Proven track record: **25% forecasting accuracy improvement**, **60% reporting automation**, models achieving **F1: 0.89**, **ROC-AUC: 0.94**, and **95.7% test accuracy** — not just code that looks good in a repo, but systems that deliver measurable outcomes.
+Results-driven data scientist and ML engineer with hands-on experience building production ML pipelines, LLM-powered applications, and end-to-end data systems that create real business impact. Proven track record: **25% forecasting accuracy improvement**, **60% reporting automation**, models achieving **F1: 0.89**, **ROC-AUC: 0.94**, and **95.7% test accuracy**,  not just code that looks good in a repo, but systems that deliver measurable outcomes.
 
-I'm a **6× IEEE-published researcher** pursuing my MS in Data Science at UMBC (GPA: 4.0/4.0), working at the intersection of machine learning, explainable AI, LLM systems, and responsible AI governance.
+I'm a **6× IEEE-published researcher** pursuing my MS in Data Science at the University of Maryland, Baltimore County, working at the intersection of machine learning, explainable AI, LLM systems, and responsible AI governance.
 
 ---
 
