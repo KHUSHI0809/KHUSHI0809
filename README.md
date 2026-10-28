@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi Shah 👋</h1>
 
 <h3 align="center">
-Data Scientist · ML/AI Engineer · 6× IEEE-Published Researcher<br>
+Data Scientist · ML/AI Engineer · 13× IEEE-Published Researcher<br>
 MS Data Science @ UMBC
 </h3>
 
